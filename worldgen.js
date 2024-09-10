@@ -1,4 +1,4 @@
-//made by InspectorBlue https://legacy.curseforge.com/minecraft/data-packs/oregenjs/files
+//made by InspectorBlue https://legacy.curseforge.com/minecraft/mc-mods/oregenjs
 
 WorldgenEvents.remove(event => {
     event.removeOres(props => {
